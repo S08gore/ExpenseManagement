@@ -10,8 +10,6 @@ Develop an Expense Management System using **Node.js**, **Express.js**, and **Mo
 - **Frontend:** Flutter (or any modern frontend framework)
 - **Authentication:** JWT for secure user authentication
 
-1. This project is designed to assess your technical skills and understanding of the requirements.
-2. Focus on code quality, correctness, database design, and project structure. These aspects will carry more weight than the completeness of the assignment.
-3. The UI should be clean, minimalistic, and responsive. Overemphasis on UI design will not earn extra marks.
+
 
 
